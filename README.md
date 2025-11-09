@@ -1,7 +1,7 @@
 # howtouse-pinet
 How to Use Smart Contracts on the Pinet Platform - Step-by-Step
 
-1. Introduction
+Introduction
 
 "Hello everyone! In this video, we'll walk you through how to use the smart contracts on the Pinet platform. Pinet is a decentralized marketplace for green energy trading, and we use smart contracts to facilitate energy transactions. In this video, we'll cover the steps for creating a shipment, approving it, confirming the shipment, and the final 'attest' step. Stay tuned!"
 
@@ -21,6 +21,6 @@ How to Use Smart Contracts on the Pinet Platform - Step-by-Step
 
 "Finally, the last step is the 'Attest' function, where an admin verifies the entire process. This step ensures that the transaction has been executed correctly and is stored on the blockchain as proof of completion."
 
-6. Conclusion
+Conclusion
 
 "That's it! In this video, we've walked through how to use smart contracts on the Pinet platform for energy trading. We covered how to create a shipment, approve payment, confirm the shipment, and finally, attest the transaction. I hope you found this tutorial helpful. If you have any questions, feel free to leave them in the comments, and don't forget to subscribe to the channel for more updates!"
